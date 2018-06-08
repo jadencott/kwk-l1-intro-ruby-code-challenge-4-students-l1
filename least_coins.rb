@@ -46,6 +46,6 @@ end
  puts coin_type
 end
 
-least_coins(78)
+least_coins(173)
 
 
